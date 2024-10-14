@@ -12,7 +12,6 @@
 
   > - Deep Learning / Computer Vision  
   > - Autonomous Systems  
-  > - Reinforcement Learning  
   > - AI in Healthcare  
   > - TensorRT / Model Optimization  
 
